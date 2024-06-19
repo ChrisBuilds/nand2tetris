@@ -5,6 +5,8 @@ the hardware and software starting from only Nand gates.
 
 The associated website is available here: [From Nand to Tetris](https://www.nand2tetris.org/).
 
+The first part of the course (and this repo) ends after the assembler has been built and the computer successfully executes code written in its assembly language. That code is executed by assembling it down to binary, loading it into memory directly via the hardware emulator, and pointing the program counter at the start. 
+
 ## Assembler
 
 The course leaves the implementation of the assembler up to the students. I chose to write it in Python, it can be found [here](https://github.com/ChrisBuilds/nand2tetris/blob/main/projects/06/assembler.py)
