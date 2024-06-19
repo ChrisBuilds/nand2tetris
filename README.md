@@ -22,15 +22,22 @@ Some of the structures can be seen below.
 ![ADD16](https://github.com/ChrisBuilds/nand2tetris/assets/57874186/4f53b635-9020-4a18-be71-5ffbf2338a4c)
 
 ### Arithmetic Logic Unit
+![ALU](https://github.com/ChrisBuilds/nand2tetris/assets/57874186/8f83a7f6-f0f3-4899-b7f9-c5cdf56288f1)
 
 ### Program Counter
+![program_counter](https://github.com/ChrisBuilds/nand2tetris/assets/57874186/013faba9-82fa-4850-847e-2149e67e5e38)
 
 ### Full CPU
+![cpu_full](https://github.com/ChrisBuilds/nand2tetris/assets/57874186/b2c54fde-7474-4616-a80f-c81c6a77d170)
 
 ### 1-bit Register
+![1-bit_register](https://github.com/ChrisBuilds/nand2tetris/assets/57874186/83fe1e8e-78af-4920-9d85-0f50f5e91bd5)
 
 ### 16-bit Register
+![16-bit_register](https://github.com/ChrisBuilds/nand2tetris/assets/57874186/615f6bbd-f796-424d-b7a3-e5977075d525)
 
 ### RAM64
+![RAM64](https://github.com/ChrisBuilds/nand2tetris/assets/57874186/8e296552-b95e-49a3-ac4c-ba22a6d69cc3)
 
 ### RAM64 Package
+![RAM64_package](https://github.com/ChrisBuilds/nand2tetris/assets/57874186/0ce7e085-fea4-427e-b98b-6acd163b8083)
