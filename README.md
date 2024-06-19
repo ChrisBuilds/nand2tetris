@@ -5,6 +5,10 @@ the hardware and software starting from only Nand gates.
 
 The associated website is available here: [From Nand to Tetris](https://www.nand2tetris.org/).
 
+## Assembler
+
+The course leaves the implementation of the assembler up to the students. I chose to write it in Python, it can be found [here](https://github.com/ChrisBuilds/nand2tetris/blob/main/projects/06/assembler.py)
+
 ## Logic Visualizations
 
 The course includes a custom VHDL and design IDE. However, I also implemented most of the logic structures (up to the
